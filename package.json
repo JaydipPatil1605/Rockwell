@@ -1,0 +1,19 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "this is rockwell's coding repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaydipPatil1605/Rockwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaydipPatil1605/Rockwell/issues"
+  },
+  "homepage": "https://github.com/JaydipPatil1605/Rockwell#readme"
+}
